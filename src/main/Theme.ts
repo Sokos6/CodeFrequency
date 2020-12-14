@@ -126,7 +126,7 @@ const shadows = [
 // Custom
 const custom = {
   dark: false,
-  companyName: "PubNub",
+  companyName: "Code Frequency",
   tagLine: "World-Class APIs for In-App Chat"
 } as const;
 
